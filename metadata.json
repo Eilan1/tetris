@@ -1,0 +1,6 @@
+{
+  "name": "Retro Web Tetris",
+  "description": "A retro NES-style web Tetris clone featuring perfect scaling, level-based gravity, and SRS wall kicks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
